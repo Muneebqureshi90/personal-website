@@ -15,15 +15,15 @@ const AboutSection = () => {
                     </div>
                     <div className={'w-3/2 shadow-2xl rounded-2xl p-5 justify-center items-center transition-transform transform hover:scale-105'}>
                         <h2 className="text-3xl font-bold mb-4">About Me</h2>
-                        <p className="text-lg text-gray-700 mb-6">Welcome! I'm a backend developer proficient in Java
+                        <p className="text-lg text-gray-700 mb-6">Welcome! I&apos;m a backend developer proficient in Java
                             Spring Boot and database management. My focus is on crafting robust web apps with scalable
                             architecture, leveraging Java and Spring Boot expertise. With a knack for database design, I
                             ensure optimal performance for seamless user experiences.
                         </p>
                         <p className="text-lg text-gray-700 mb-6">Several years ago, I embarked on my web development
-                            journey, delving into React.js and React Native. Through diverse projects, I've honed my
-                            skills, from crafting web apps to building versatile mobile solutions. Whether it's React.js
-                            UIs or React Native apps, I'm fueled by innovation and thrive on pushing boundaries. Each
+                            journey, delving into React.js and React Native. Through diverse projects, I&apos;ve honed my
+                            skills, from crafting web apps to building versatile mobile solutions. Whether it&apos;s React.js
+                            UIs or React Native apps, I&apos;m fueled by innovation and thrive on pushing boundaries. Each
                             challenge is a chance to grow, driving me to explore new technologies and expand my
                             expertise.
                         </p>
